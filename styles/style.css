@@ -1,1 +1,51 @@
+.bg-info {
+    background-color: #621B00 !important;
+}
 
+.navbar-light .navbar-brand,
+.navbar-light .navbar-nav .nav-link {
+    color: #C75000;
+}
+
+.btn-info {
+    color: #FFFFFF;
+    background-color: #2F1000;
+    border-color: #2F1000;
+}
+
+.btn-primary {
+    color: #000000;
+    font-size: 150%;
+    background-color: #622C16;
+    border-color: #621B00;
+    border-width: thick;
+}
+
+.btn-outline-success {
+    color: #FFFFFF;
+    background-color: #2F1000;
+    border-color: #2F1000;
+}
+
+body {
+    background-color: #fcdcdc;
+    /* Lightest shade for body background to follow the 60% rule */
+}
+
+
+.navbar-brand {
+    font-family: "Sixtyfour Convergence", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "BLED" 100,
+        "SCAN" 65,
+        "XELA" 100,
+        "YELA" 0;
+    font-size: 2.25rem;
+}
+
+.fantasy {
+    font-family: fantasy;
+}
